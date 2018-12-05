@@ -1,0 +1,2 @@
+# FOOSESHOES
+a template site
